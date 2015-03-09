@@ -115,6 +115,7 @@
           }
         };
       })(this));
+      params = null;
       return null;
     };
 
